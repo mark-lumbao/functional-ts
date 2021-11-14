@@ -1,0 +1,19 @@
+{
+  "name": "functional-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
